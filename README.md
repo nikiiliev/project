@@ -1,2 +1,2 @@
 # project
-this is just example
+this is just example 2
